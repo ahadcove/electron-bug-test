@@ -21,6 +21,6 @@
     "tslib": "^2.0.3"
   },
   "dependencies": {
-    "corsair-cove": "0.0.4-beta.4"
+    "corsair-cove": "0.0.6"
   }
 }
