@@ -18,7 +18,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^11.0.4",
-    "tslib": "^2.0.3"
+    "tslib": "^2.5.0"
   },
   "dependencies": {
     "corsair-cove": "0.0.4-beta.4"
